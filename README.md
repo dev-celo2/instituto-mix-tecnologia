@@ -44,10 +44,15 @@
     <p>
     Se estiver utilizando uma tela menor, provavelmente você terá que abrir o menu(també na parte superior), que terá a seguinte aparência:
     <p>
-    <img src="assets-read-me/Itens-navegacao.png" alt="Itens de navegação Inicio, Serviços, Sobre"></img>
-
-
-    
+    <img src="assets read-me/top-mobile-seta.png" alt="Icone de abertura do menu de navegação"></img>
+    </br>
+    <p>E logo em seguida terá o seguinte resultado:</p>
+    <img src="assets read-me/navegacao-mobile.png" alt="Aparência do menu de navegação"></img>
+    </br>
+    <p>Você pode entrar em contato com a clínica por meio do seguinte botão:</p>
+    <img src="assets read-me/agendar-consulta.png" alt="Botão agende sua consulta"></img>
+    <p>Sempre que precisar voltar o topo basta clicar no seguinte botão: </p>
+    <img src="assets read-me/topo.png" alt="Botão voltar ao topo"></img>
 </div>
 
 
