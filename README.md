@@ -10,15 +10,10 @@
 # NLW:
 <!--ts-->
    * [Sobre](#sobre)
-   * [Tabela de Conteudo](#tabela-de-conteudo)
-   * [Navegar no website](#Navegar)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pre-requisitos)
-      * [Local files](#local-files)
-      * [Remote files](#remote-files)
-      * [Multiple files](#multiple-files)
-      * [Combo](#combo)
-   * [Tests](#testes)
+   * [Navegar no website](#navegar)
+   * [Como usar](#navegar)
+      * [Demonstração da aplicação](https://dev-celo.github.io/NLW/)
+      * [Remote files](https://github.com/dev-celo/NLW)
    * [Tecnologias](#tecnologias)
 <!--te-->
 
@@ -39,35 +34,52 @@
     <p>
     Você pode ver os itens de navegação da nossa página clicando nos seguintes links (que se encontra na parte superior do site):
     </p>
-    <img src="assets-read-me/Itens-navegacao.png" alt="Itens de navegação Inicio, Serviços, Sobre"></img>
+    <img src="assets-read-me/Itens-navegacao.png"  width="500px" alt="Itens de navegação Inicio, Serviços, Sobre"></img>
     </br>
     <p>
     Se estiver utilizando uma tela menor, provavelmente você terá que abrir o menu(també na parte superior), que terá a seguinte aparência:
     <p>
-    <img src="assets-read-me/top-mobile-seta.png" alt="Icone de abertura do menu de navegação"></img>
+    <img src="assets-read-me/top-mobile-seta.png" width="500px" alt="Icone de abertura do menu de navegação"></img>
     </br>
     <p>E logo em seguida terá o seguinte resultado:</p>
-    <img src="assets-read-me/navegacao-mobile.png" alt="Aparência do menu de navegação"></img>
+    <img src="assets-read-me/navegacao-mobile.png"  width="500px" alt="Aparência do menu de navegação"></img>
     </br>
     <p>Você pode entrar em contato com a clínica por meio do seguinte botão:</p>
-    <img src="assets-read-me/agendar-consulta.png" alt="Botão agende sua consulta"></img>
+    <img src="assets-read-me/agendar-consulta.png"  width="500px" alt="Botão agende sua consulta"></img>
     <p>Sempre que precisar voltar o topo basta clicar no seguinte botão: </p>
-    <img src="assets-read-me/topo.png" alt="Botão voltar ao topo"></img>
+    <img src="assets-read-me/topo.png"  width="500px" alt="Botão voltar ao topo"></img>
+</div>
+
+<div align="center">
+  </br>
+  </br>
+  </br>
+  =========================================================
+  <h2>✅ Javascript Select 🚀 Projeto concluído...  ✅</h2>
+  </br>
+  </br>
+</div>
+
+<div id="tecnologias">
+
+### Trabalho realizado com
+
+  - [x] HTML5
+  - [x] CSS3
+  - [x] Javascript
+  </br>
+
+  <p>Utilizamos em nosso projeto front-end as tecnologias HTML5, CSS3 e Js para fazer um layout responsivo de maneira a se adaptar em vários tamanhos de tela, usando os conceitos básicos do display flex para estruturar a página.
+  Fizemos uso do DOM e do BOM para realizar as iterações com o usuário e manipular as informações para trazer resultados esperados.
+  Tratamos de imagens em SVG manipulamos o path e alteramos cores e tamanhos de logo e algumas imagens.</p>
+</div>
+
+<div align = "center" style="border-top: 1px solid grey; padding-top: 20px;">
+
+  #### Olá me chamo Marcelo, fique à vontade para opinar :)
+  <p>Se você chegou até aqui, muito obrigado por visitar esse perfil! Espero que tenha gostaddo do conteúdo.</p>
+  
+  Você pode acessar a página [Clicando aqui](https://dev-celo.github.io/NLW/)
 </div>
 
 
-<h4 align="center"> 
-	🚧  React Select 🚀 Em construção...  🚧
-</h4>
-## Trabalho desenvolvido em conjunto com a equipe do rocketseat na versão origin
-
-Trabalho realizado com
-
-* HTML5
-* CSS3
-* Javascript
-
-
-Você pode acessar a página [Clicando aqui](https://dev-celo.github.io/NLW/)
-
-#### Olá me chamo Marcelo, fique à vontade para opinar :)
