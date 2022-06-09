@@ -56,6 +56,7 @@
   </br>
   =========================================================
   <h2>✅ Javascript Select 🚀 Projeto concluído...  ✅</h2>
+  <p>✅ Todas as aulas completas!</p>
   </br>
   </br>
 </div>
