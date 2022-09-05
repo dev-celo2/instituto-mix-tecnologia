@@ -302,9 +302,6 @@ body.menu-expanded button path {
   width: 100%;
   display: block;
   margin-inline: auto;
-  object-position: 0 0.2rem;
-
-  margin-bottom: -1.8rem;
 }
 
 /* Caixa estatisticas */
