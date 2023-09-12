@@ -407,7 +407,7 @@ body.menu-expanded button path {
 /* === Footer ================================== */
 footer{
   background-color: var(--primary-color);
-  padding-top: 6rem;
+  padding-top: 4rem;
   text-align: left;
 
   color: #fff;
@@ -420,7 +420,7 @@ footer .logo{
 
 footer .logo svg {
   width: 23.6rem;
-  height: 3.1rem;
+  height: 20rem;
 }
 
 footer .logo path{
@@ -730,7 +730,7 @@ body.menu-expanded #navigation .logo path,
 
     /* === Footer ================================== */
     footer{
-      padding-block: 8rem;
+      padding-block: 0rem;
     }
 
     footer .wrapper{  
@@ -749,5 +749,10 @@ body.menu-expanded #navigation .logo path,
 
     footer p{
       margin-bottom: 0;
+      margin-left: 4rem;
+    }
+
+    footer a {
+      color: #a9b8fa;
     }
 }
