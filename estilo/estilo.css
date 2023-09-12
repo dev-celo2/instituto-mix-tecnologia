@@ -6,7 +6,7 @@
 }
 /* Tipografia */
 :root {
-  --hue:190;
+  --hue:359;
 
   /* Definindo variáveis */
   --primary-color: hsl(var(--hue), 100%, 26%);
@@ -21,7 +21,7 @@
 
   --brand-dark: hsl(var(--hue), 100%, 14%);
 
-  --nav-height: 7.2rem;
+  --nav-height: 9.5rem;
 
   font-size: 62.5%; /*1 rem = 10px*/
 }
@@ -261,6 +261,7 @@ body.menu-expanded .logo,
 body.menu-expanded button {
   position: relative;
   z-index: 100;
+  width: 120px;
 }
 
 body.menu-expanded .logo path {
@@ -454,9 +455,6 @@ transition: translateY(100%);
   transition: translateY(0);
 }
 
-
-
-
 /*persanalizando cores*/
 #services .card circle{
   fill: var(--brand-green-light);
@@ -483,9 +481,8 @@ body.menu-expanded #navigation .logo path,
 
 /* === Responsivo ================================== */
 
-@media (min-width: 1024px) {
+@media (min-width: 1020px) {
   /* === Geral ================================== */
-
   body{
     overflow: auto;
   }
@@ -528,7 +525,6 @@ body.menu-expanded #navigation .logo path,
     position: initial;
     font-size: initial;
     font-weight: initial;
-    transform: initial;
     color: initial;
     background-color: initial;
   }
@@ -544,6 +540,7 @@ body.menu-expanded #navigation .logo path,
     align-items: center;
     justify-content: space-between;
     width: 60%;
+    margin-bottom: 5rem;
   }
 
   nav#navigation .menu ul:nth-child(1){
