@@ -165,7 +165,7 @@ nav .close-menu{
 }
 
 img{
-  width: 100%;
+  width: 90%;
 }
 /* === MENU-EXPANDED ================================== */
 body.menu-expanded {
@@ -540,7 +540,7 @@ body.menu-expanded #navigation .logo path,
     align-items: center;
     justify-content: space-between;
     width: 60%;
-    margin-bottom: 5rem;
+    margin-bottom: 5.7rem;
   }
 
   nav#navigation .menu ul:nth-child(1){
@@ -626,6 +626,11 @@ body.menu-expanded #navigation .logo path,
     filter: brightness(1.3);
     border: none;
   }
+
+  nav img{
+    width: 20rem;
+  }
+
   /* === Home ================================== */
   #home::before{
     height: calc(95% - var(--nav-height));
@@ -749,7 +754,6 @@ body.menu-expanded #navigation .logo path,
 
     footer p{
       margin-bottom: 0;
-      margin-left: 4rem;
     }
 
     footer a {
