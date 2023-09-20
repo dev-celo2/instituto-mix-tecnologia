@@ -369,6 +369,10 @@ body.menu-expanded button path {
 #services .card h3{
   margin-block: 1.6rem;
 }
+
+#services .wrapper .cards {
+  margin-top: 2rem;
+}
 /* === About ================================== */
 #about{
   text-align: left;
@@ -441,7 +445,7 @@ footer .social-links {
 #backToTopButton{
 position: fixed;
 bottom: 1rem;
-right: 2.5rem;
+right: 3rem;
 
 opacity: 0;
 visibility: hidden;
